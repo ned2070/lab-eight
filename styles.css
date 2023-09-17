@@ -1,0 +1,37 @@
+
+body {background-color: beige;
+    color: rgb(#B3171C);
+    font-size: large;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 95%;
+    padding: 10px;
+    border-color: darkgreen;
+    border: 5px;
+    border-style: solid;
+}
+
+
+header {background-color: brown;
+    
+    border: 10px;
+    border-style: solid;
+    padding: 10px;
+}
+
+.linksdiv { border: 1px;
+    border-style: solid;
+    padding: 10px;
+    list-style-type: none;
+    ;
+
+}
+
+.goodsdiv { border: 1px;
+    border-style: solid;
+    padding: 10px;    
+
+}
